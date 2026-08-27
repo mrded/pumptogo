@@ -1,0 +1,10 @@
+{
+  "name": "pumptogo",
+  "private": true,
+  "scripts": {
+    "build": "hugo --minify --gc"
+  },
+  "devDependencies": {
+    "hugo-extended": "0.147.9"
+  }
+}
